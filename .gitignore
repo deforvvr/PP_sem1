@@ -1,0 +1,22 @@
+# Временные файлы ОС
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Кэш и логи
+*.log
+*.cache
+
+# Папки временных данных
+tmp/
+temp/
+.cache/
+
+# Файлы IDE (пример для VSCode и JetBrains)
+.vscode/
+.idea/
+
+# Системные
+.DS_Store
+Thumbs.db
