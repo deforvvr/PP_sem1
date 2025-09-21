@@ -12,7 +12,7 @@
 tmp/
 temp/
 .cache/
-venv/
+.venv/
 
 # Файлы IDE (пример для VSCode и JetBrains)
 .vscode/
